@@ -6,9 +6,9 @@ This is a simple Hello World program in python.
 
 My reason for doing this is to make sure that I have Python, Pycharm and Git working together correctly.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+You can watch a video here of my Hello World setup
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/b-uWe3pA0KY)
 
 # Development Environment
 
