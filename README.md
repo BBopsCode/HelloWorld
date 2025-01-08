@@ -1,14 +1,9 @@
 # Overview
-
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 This is a simple Hello World program in python.
 
 My reason for doing this is to make sure that I have Python, Pycharm and Git working together correctly.
 
-You can watch a video here of my Hello World setup
-
-[Software Demo Video](https://youtu.be/b-uWe3pA0KY)
+You can watch a video here of my Hello World setup: [Software Demo Video](https://youtu.be/b-uWe3pA0KY)
 
 # Development Environment
 
